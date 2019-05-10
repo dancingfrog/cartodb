@@ -24,7 +24,7 @@ Development
 - Filter TrackJS errors in embed maps ([#14890](https://github.com/CartoDB/cartodb/issues/14890))
 - Minor copy edit in final step of Builder Onboarding
 - New signup plan ([CartoDB/cartodb-central#2456](https://github.com/CartoDB/cartodb-central/issues/2456))
-
+- Update Welcome message with plan info ([#14871](https://github.com/CartoDB/cartodb/issues/14871))
 
 4.26.1 (2019-05-06)
 -------------------
