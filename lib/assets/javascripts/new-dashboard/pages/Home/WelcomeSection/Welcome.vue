@@ -76,7 +76,7 @@ export default {
       return freeUser.includes(this.user.account_type);
     },
     isProUser () {
-      const proUsers = ['Professional', 'Annual Professional'];
+      const proUsers = ['Professional'];
       return proUsers.includes(this.user.account_type);
     },
     isOrganizationAdmin () {
